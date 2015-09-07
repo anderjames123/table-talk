@@ -1,0 +1,2 @@
+# table-talk
+ Table Talk is a listening device that uses current Bluetooth technology to focus and isolate our conversation from our surroundings. table talk is improve our life style. we are communicate easily to each other in noisy place. Table Talk will work as a communication hub, joining up to 6 talkers to one listening user. It allows the listener to adjust the volume of each speaking person, as well as the master volume of the conversation, to ensure a sound quality and volume is eliminates missed communication. 
